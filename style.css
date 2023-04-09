@@ -1,0 +1,19 @@
+.footer
+{
+    color: black;
+    font-family: 'Times New Roman', Times, serif;
+    width:100%;
+    line-height: 2;
+    margin: 0px;
+}
+.heading
+{
+    width:100%;
+}
+
+canvas
+{
+    border-radius:5px;
+    box-shadow: 3px 3px 3px white;
+    border: 2px solid white;
+}
